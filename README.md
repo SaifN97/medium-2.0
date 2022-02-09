@@ -1,4 +1,4 @@
-# ShareMe Social
+# Medium 2.0
 
 ## Table of contents
 
@@ -20,7 +20,7 @@
 
 ### Links
 
-- Live Site URL: [ShareMe Social](https://nshareme.netlify.app/)
+- Live Site URL: [Medium 2.0](https://medium-2-0-sage.vercel.app/)
 
 ## My process
 
